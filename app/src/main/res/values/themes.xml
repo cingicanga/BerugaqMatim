@@ -1,0 +1,16 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.BerugaqMatim" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">#0A1553</item>
+        <item name="colorPrimaryDark">@android:color/holo_orange_dark</item>
+        <item name="colorAccent">@android:color/holo_orange_light</item>
+        <!-- Customize your theme here. -->
+    </style>
+
+    <style name="splashSceenTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="android:windowBackground">@drawable/ic_splash_berugaq</item>
+        <item name="android:statusBarColor">@color/black</item>
+    </style>
+
+</resources>
